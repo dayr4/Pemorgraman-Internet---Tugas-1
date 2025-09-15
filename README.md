@@ -2,12 +2,12 @@
 Halo selamat datang di repository ini! Repository ini berisikan beebrapa program yang menggunakan konsep dasar (tipe data, variabel, operator, kondisi) dalam bahasa pemrograman PHP
 
 # === IDENTITAS ===
-Nama: Ida Ayu Ratih Widya Paramitha \n
-NIM: 2405551111 \n
-Kelas: Pemrograman Internet B \n
+Nama: Ida Ayu Ratih Widya Paramitha
+\n NIM: 2405551111
+\n Kelas: Pemrograman Internet B
 
-Untuk mengakses file ini dapat melalui XAMPP. Klik "Start" pada "Apache", setelah itu akses url http://localhost/[nama folder]/index.php pada browser. \n
-PAstikan file sudah berada di dalam path C:\xampp\htdocs \n
+Untuk mengakses file ini dapat melalui XAMPP. Klik "Start" pada "Apache", setelah itu akses url http://localhost/[nama folder]/index.php pada browser.
+\n Pastikan file sudah berada di dalam path C:\xampp\htdocs
 
 # FORM UCAPAN
 <img width="1919" height="628" alt="1  form ucapan" src="https://github.com/user-attachments/assets/7c610f29-5b48-482f-9b25-49db961a5044" />
