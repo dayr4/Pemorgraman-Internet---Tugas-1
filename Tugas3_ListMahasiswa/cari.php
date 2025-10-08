@@ -7,7 +7,7 @@ if ($keyword === '') {
   $stmt = $conn->prepare("SELECT id, nim, nama, prodi FROM mahasiswa ORDER BY id DESC");
 } else {
   $like = "%{$keyword}%";
-  // 🔍 cari berdasarkan nama, NIM, atau program studi
+  // cari berdasarkan nama, NIM, atau program studi
   $stmt = $conn->prepare("SELECT id, nim, nama, prodi FROM mahasiswa 
                           WHERE nama LIKE ? OR nim LIKE ? OR prodi LIKE ?
                           ORDER BY id DESC");

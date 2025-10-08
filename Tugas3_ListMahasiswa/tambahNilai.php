@@ -45,7 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </div>
 
 <script>
-// 🌸 fungsi otomatis isi nilai huruf dan angka mutu
+// fungsi otomatis isi nilai huruf dan angka mutu
 document.getElementById('nilai_angka').addEventListener('input', function() {
   const n = parseFloat(this.value);
   let huruf = '', mutu = '';
